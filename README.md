@@ -46,8 +46,10 @@ StudentTaskOrganizer/
 
 ## 📷 Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
+![Снимок экрана 2025-05-22 181026](https://github.com/user-attachments/assets/c014fac6-6f63-4093-bb7e-3e194d7191a6)
+![Снимок экрана 2025-05-22 180948](https://github.com/user-attachments/assets/5ad6c560-6bc3-4c90-8dab-2dfd2d51f10a)
+
+
 ---
 
 ## 🧩 Code Snippets
